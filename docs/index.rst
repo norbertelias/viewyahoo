@@ -6,7 +6,7 @@ Have you ever opened your browser and found your **Yahoo Mail Account Already Si
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://desk-yahoo.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Yahoo</a>
+       <a href="https://deskyahoo.vercel.app" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Yahoo</a>
    </div>
 Whether you're at home or on the go, knowing how to manage your email account when your **Yahoo Mail Account Already Signed In** is essential. This guide will help you understand what’s happening, how to access your inbox safely, how to log out across devices, and how to manage your settings effectively. So, if your **Yahoo Mail Account Already Signed In** is puzzling you, you're in the right place.
 
@@ -152,3 +152,4 @@ Seeing your **Yahoo Mail Account Already Signed In** can be a convenient experie
 Always know where you're logged in, manage your account settings wisely, and protect your private data. By following the tips and steps above, you can enjoy the best of both worlds—efficiency and peace of mind.
 
 For further support, visit the Yahoo Help Center at `https://help.yahoo.com <https://help.yahoo.com>`_
+
